@@ -3,17 +3,12 @@
 - [Introduction](#introduction)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Quick Start](#quick-start)
-- [Snippets](#snippets)
-- [Links](#links)
-- [More](#more)
-- [Tutorial](#tutorial)
 
-## Introduction 🤖
+## Introduction
 
 Welcome to the repository for an e-commerce product scraping site developed using Next.js and Bright Data's webunlocker. This project is designed to empower users with informed decisions, providing notifications for price drops and product availability. Manage it all through cron jobs.
 
-## Tech Stack ⚙️
+## Tech Stack
 
 Following technologies:
 
@@ -25,7 +20,7 @@ Following technologies:
 - Headless UI
 - Tailwind CSS
 
-## Features 🔋
+## Features
 
 Explore the key features of our e-commerce product scraping site:
 
@@ -37,7 +32,3 @@ Explore the key features of our e-commerce product scraping site:
 - **Email Notifications:** Send product alert emails for various scenarios, e.g., back in stock alerts or lowest price notifications.
 - **Automated Cron Jobs:** Utilize cron jobs to automate periodic scraping, ensuring data is up-to-date.
 - ... and many more, including code architecture and reusability.
-
-## Credit
-
-Followed this tutorial: [eCommerce Price Tracker](https://www.youtube.com/watch?v=lh9XVGv6BHs&list=WL&index=9&t=4021s)
